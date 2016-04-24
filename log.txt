@@ -1,0 +1,120 @@
+Length of request in bytes460Length of request in bytes460Length of request in bytes0Length of request in bytes455HTTP Method: GET
+HOST Name: www.google.com
+Received message: 
+b'GET http://www.google.com/ HTTP/1.1\r\nHost: www.google.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: NID=78=e7ZtAugFJ79UPPALn2fIFaguU6GVe1vdkAL_x1pHrjL8uV6_mWtuBb42riOtjR-rH7cfP-aiKLZZNosfFiLYqZDj37bn_73qpZvgmwd-B11wWoh6qyyO3unBzEphpiwK\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of response in bytes838Length of request in bytes460Length of request in bytes460Length of request in bytes460Length of request in bytes490HTTP Method: GET
+HOST Name: www.google.com
+Received message: 
+b'GET http://www.google.com/ HTTP/1.1\r\nHost: www.google.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: NID=78=pHVAmKZcEKIBZi51AtmZL5t1D98KqJEWcvGt_F8gDg3Xhvkebaf5hnxdWlRKfoxKHzYMOBm5LaDFzZs-73SWyrydRYknPXgkYshTWJ7V0szyOSyy-ZVMG-AttMI_SWh8Svz_6iWd8q5gyNjIIw; OGPC=5061451-1:\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes490HTTP Method: GET
+HOST Name: www.google.com
+Received message: 
+b'GET http://www.google.com/ HTTP/1.1\r\nHost: www.google.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: NID=78=pHVAmKZcEKIBZi51AtmZL5t1D98KqJEWcvGt_F8gDg3Xhvkebaf5hnxdWlRKfoxKHzYMOBm5LaDFzZs-73SWyrydRYknPXgkYshTWJ7V0szyOSyy-ZVMG-AttMI_SWh8Svz_6iWd8q5gyNjIIw; OGPC=5061451-2:\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes460Length of request in bytes482Length of request in bytes482Length of request in bytes460Length of request in bytes460Length of request in bytes460Length of request in bytes460HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes460Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
+Length of request in bytes415HTTP Method: GET
+HOST Name: www.uta.edu
+Received message: 
+b'GET http://www.uta.edu/uta/ HTTP/1.1\r\nHost: www.uta.edu\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: nommanommanomma=!stxVU0ZVdn4FLgLkshTA+5ziHeqN/ui/Gy1Lk+B6pPsMUuZW/5a3LqbkGqCsu+9cwNc1jGd1341bgA==\r\nConnection: keep-alive\r\n\r\n'
+*************************************************
